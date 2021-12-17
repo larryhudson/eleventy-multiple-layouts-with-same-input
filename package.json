@@ -1,0 +1,17 @@
+{
+  "name": "eleventy-using-multiple-layouts-for-same-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @11ty/eleventy",
+    "watch": "npx @11ty/eleventy --watch --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0-beta.8"
+  }
+}
