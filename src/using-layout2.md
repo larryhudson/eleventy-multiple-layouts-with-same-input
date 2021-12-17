@@ -6,4 +6,4 @@ pagination:
   alias: thePage
 ---
 
-{{thePage.data.content}}
+{{thePage.templateContent|safe}}
